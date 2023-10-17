@@ -1,5 +1,3 @@
-[4:15 PM] MEHEDI HASAN EMON
-
 #include <iostream>
 
 using namespace std;
